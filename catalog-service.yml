@@ -1,2 +1,2 @@
 dummy:
- greetings: "Welcome to the catalog from the config server"
+ greetings: "Welcome to the catalog from the config server **"
