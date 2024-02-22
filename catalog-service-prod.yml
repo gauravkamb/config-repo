@@ -1,2 +1,2 @@
 dummy:
- greetings: "Welcome to the production catalog from the config server changed for runtime update"
+ greetings: "Welcome to the production catalog from the config server changed for runtime update 2"
